@@ -130,7 +130,7 @@ client.on("message", async message => {
 	  message.reply(``);
   }
   
-  // Tell the user the hours of Chick-Fil-A on Main Campus, 
+  // Tell the user the hours of ChickFileA-Fil-A on Main Campus,
   // TODO: compare time and tell the user that its closed or open
     if(command === "chick") {
         var openMonTue = '07:30:00';
